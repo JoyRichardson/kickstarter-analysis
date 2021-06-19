@@ -15,10 +15,15 @@ We are tasked with determining factors that were present in other successful cam
 * May is the best month to launch successful campaigns.
 * Campaigns were twice as succeesful as failed ones (2:1 ratio).
 * December is the worst month with greater failures.<br/>
-![](Outcomes_Based_on_Launch_Dates.png)
+![](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 * Campaigns with budgets of $5,000 or less have a higher success rate (3:1 ratio).
 * Campaigns with budgets between $5,000 and $15,000 were 9% more successful than failed ones.
 ![](Outcomes_vs_Goals.png)
-## Recommendations
-From our analysis, we recommend launching in May-June with a much lower goal ($5,000) and a shorter period to increase the probablity of success.
+### Challenges and Difficulties Encountered
+* We had more data than needed for our research.
+* We had to manipulate data before analysis.
+## Results
+* Based on our reaserch, we concluded launching in May-June with a much lower goal ($5,000) and a shorter period to increase the probablity of success.
+* Our dataset contained excess data as well as out of range data which had to be addressed or considered.
+* We could have also filtered across countries and other subcategories of theater.
